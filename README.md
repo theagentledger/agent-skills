@@ -18,6 +18,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[security-hardening](./security-hardening/)** | Security audit framework — credential scans, PII detection, prompt injection review. |
 | **[inbox-triage](./inbox-triage/)** | Email triage with 4-tier urgency system, reply drafting, and digest mode. |
 | **[project-tracker](./project-tracker/)** | Project dashboard with milestone tracking, stalled detection, and priority scoring. |
+| **[research-assistant](./research-assistant/)** | Structured web research framework — multi-source briefs, source scoring, topic monitoring, and a persistent research library. |
 
 ## Quick Start
 
