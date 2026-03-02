@@ -20,6 +20,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[project-tracker](./project-tracker/)** | Project dashboard with milestone tracking, stalled detection, and priority scoring. |
 | **[research-assistant](./research-assistant/)** | Structured web research framework — multi-source briefs, source scoring, topic monitoring, and a persistent research library. |
 | **[content-calendar](./content-calendar/)** | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
+| **[goal-tracker](./goal-tracker/)** | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
 
 ## Quick Start
 
