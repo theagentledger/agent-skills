@@ -1,6 +1,13 @@
 ---
 name: security-hardening
-description: Security audit and hardening skill for AI agents. Performs workspace security audits, enforces credential hygiene, prevents data leakage, and implements defense-in-depth patterns. Use when setting up agent security, auditing workspace files for leaked secrets, hardening agent configs against prompt injection, or implementing privacy zones. By The Agent Ledger.
+version: "1.0.0"
+description: Security audit and hardening for AI agents — credential hygiene, secret scanning, prompt injection defense, data leakage prevention, and privacy zones.
+tags: [security, audit, hardening, secrets, credentials, prompt-injection, data-leakage, privacy, defense-in-depth, workspace-security]
+platforms: [openclaw, cursor, windsurf, generic]
+category: security
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Security Hardening — by The Agent Ledger

@@ -1,6 +1,13 @@
 ---
 name: project-tracker
-description: Track multiple projects with status dashboards, milestone tracking, and automated progress reports. Use when managing side projects, client work, product launches, or any multi-project workload. Includes weekly reviews, stalled project detection, and priority scoring. Perfect for solopreneurs and small teams juggling multiple initiatives. By The Agent Ledger.
+version: "1.0.0"
+description: Multi-project tracker with status dashboards, milestone tracking, stalled project detection, priority scoring, and automated weekly progress reports.
+tags: [project-management, tracker, dashboard, milestones, progress-reports, weekly-review, priority-scoring, stalled-detection, side-projects, portfolio]
+platforms: [openclaw, cursor, windsurf, generic]
+category: productivity
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Project Tracker

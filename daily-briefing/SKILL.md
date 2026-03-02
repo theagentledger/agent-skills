@@ -1,6 +1,13 @@
 ---
 name: daily-briefing
-description: Structured morning briefing skill for AI agents. Delivers concise, actionable daily summaries covering calendar, tasks, weather, news, and priorities. Supports cron, heartbeat, and on-demand triggers. Use when setting up daily check-ins or proactive agent briefings. By The Agent Ledger.
+version: "1.0.0"
+description: Structured morning briefing skill — daily summaries covering calendar, tasks, weather, news, and priorities. Supports cron, heartbeat, and on-demand triggers.
+tags: [daily-briefing, morning-summary, calendar, tasks, weather, news, priorities, cron, heartbeat, proactive-agent]
+platforms: [openclaw, cursor, windsurf, generic]
+category: productivity
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Daily Briefing — by The Agent Ledger

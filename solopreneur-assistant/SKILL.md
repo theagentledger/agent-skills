@@ -1,6 +1,13 @@
 ---
 name: solopreneur-assistant
-description: Turn your AI agent into a Chief of Staff for your one-person business. Inbox triage, task prioritization, revenue tracking, decision journals, opportunity scoring, and weekly reviews. Use when running a solo business and want an AI operations layer. By The Agent Ledger.
+version: "1.0.0"
+description: AI Chief of Staff for solo businesses — inbox triage, task prioritization, revenue tracking, decision journals, opportunity scoring, and weekly reviews.
+tags: [solopreneur, chief-of-staff, business-ops, task-management, revenue-tracking, decision-journal, weekly-review, solo-business, productivity, automation]
+platforms: [openclaw, cursor, windsurf, generic]
+category: business
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Solopreneur Assistant — by The Agent Ledger

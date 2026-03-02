@@ -1,6 +1,13 @@
 ---
 name: memory-os
-description: Install a complete persistent memory system for your AI agent. Solves context amnesia with structured daily logs, long-term memory, identity files, and proactive heartbeat checks. Paste once — your agent never forgets you again. Use when setting up a new agent or fixing memory/continuity issues. By The Agent Ledger.
+version: "1.0.0"
+description: Persistent memory system for AI agents — daily logs, long-term memory, identity files, and heartbeat-driven recall. Solves context amnesia across sessions.
+tags: [memory, persistence, context, recall, daily-logs, long-term-memory, identity, continuity, session-memory, agent-memory-system]
+platforms: [openclaw, cursor, windsurf, generic]
+category: memory
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Memory OS Blueprint

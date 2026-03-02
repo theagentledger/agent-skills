@@ -1,6 +1,13 @@
 ---
 name: inbox-triage
-description: Email inbox triage and management skill for AI agents. Scans unread emails, categorizes by urgency and action needed, drafts replies, surfaces items requiring human attention, and archives noise. Supports Gmail and IMAP via CLI tools. Use when setting up email monitoring, inbox zero workflows, or proactive email alerts. By The Agent Ledger.
+version: "1.0.0"
+description: Email inbox triage for AI agents — scan, categorize, draft replies, surface urgent items, and archive noise. Supports Gmail and IMAP for inbox zero workflows.
+tags: [email, inbox, triage, gmail, imap, inbox-zero, email-management, urgency, draft-replies, notifications]
+platforms: [openclaw, cursor, windsurf, generic]
+category: communication
+author: The Agent Ledger
+license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Inbox Triage — by The Agent Ledger
