@@ -19,6 +19,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[inbox-triage](./inbox-triage/)** | Email triage with 4-tier urgency system, reply drafting, and digest mode. |
 | **[project-tracker](./project-tracker/)** | Project dashboard with milestone tracking, stalled detection, and priority scoring. |
 | **[research-assistant](./research-assistant/)** | Structured web research framework — multi-source briefs, source scoring, topic monitoring, and a persistent research library. |
+| **[content-calendar](./content-calendar/)** | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
 
 ## Quick Start
 
