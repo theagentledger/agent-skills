@@ -10,28 +10,40 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 
 ## Available Skills
 
-| Skill | What It Does |
-|-------|-------------|
-| **[memory-os](./memory-os/)** | Persistent memory system — daily logs, long-term memory, identity files. Your agent stops forgetting you. |
-| **[daily-briefing](./daily-briefing/)** | Structured morning briefings — calendar, tasks, weather, priorities. Start every day informed. |
-| **[solopreneur-assistant](./solopreneur-assistant/)** | Executive assistant for solo founders — business dashboard, decision journal, opportunity scoring. |
-| **[security-hardening](./security-hardening/)** | Security audit framework — credential scans, PII detection, prompt injection review. |
-| **[inbox-triage](./inbox-triage/)** | Email triage with 4-tier urgency system, reply drafting, and digest mode. |
-| **[project-tracker](./project-tracker/)** | Project dashboard with milestone tracking, stalled detection, and priority scoring. |
-| **[research-assistant](./research-assistant/)** | Structured web research framework — multi-source briefs, source scoring, topic monitoring, and a persistent research library. |
-| **[content-calendar](./content-calendar/)** | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
-| **[goal-tracker](./goal-tracker/)** | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
-| **[decision-log](./decision-log/)** | AI-powered decision journal — log choices with context and rationale, schedule outcome reviews, and track your judgment calibration over time. |
+| Skill | ClawHub Slug | What It Does |
+|-------|-------------|-------------|
+| **[memory-os](./memory-os/)** | `memory-os` | Persistent memory system — daily logs, long-term memory, identity files. Your agent stops forgetting you. |
+| **[daily-briefing](./daily-briefing/)** | `agentledger-daily-briefing` | Structured morning briefings — calendar, tasks, weather, priorities. Start every day informed. |
+| **[solopreneur-assistant](./solopreneur-assistant/)** | `solopreneur-assistant` | Executive assistant for solo founders — business dashboard, decision journal, opportunity scoring. |
+| **[security-hardening](./security-hardening/)** | `security-hardening` | Security audit framework — credential scans, PII detection, prompt injection review. |
+| **[inbox-triage](./inbox-triage/)** | `inbox-triage` | Email triage with 4-tier urgency system, reply drafting, and digest mode. |
+| **[project-tracker](./project-tracker/)** | `project-tracker` | Project dashboard with milestone tracking, stalled detection, and priority scoring. |
+| **[research-assistant](./research-assistant/)** | `agentledger-research-assistant` | Structured web research framework — multi-source briefs, source scoring, topic monitoring, and a persistent research library. |
+| **[content-calendar](./content-calendar/)** | `content-calendar` | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
+| **[goal-tracker](./goal-tracker/)** | `agentledger-goal-tracker` | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
+| **[decision-log](./decision-log/)** | `agentledger-decision-log` | AI-powered decision journal — log choices with context and rationale, schedule outcome reviews, and track your judgment calibration over time. |
 
 ## Quick Start
 
-### OpenClaw
+### OpenClaw (via ClawHub)
+```bash
+# Install individual skills
+clawhub install memory-os
+clawhub install inbox-triage
+clawhub install solopreneur-assistant
+clawhub install security-hardening
+clawhub install project-tracker
+clawhub install content-calendar
+clawhub install agentledger-daily-briefing
+clawhub install agentledger-research-assistant
+clawhub install agentledger-goal-tracker
+clawhub install agentledger-decision-log
+```
+
+### OpenClaw (manual)
 ```bash
 # Copy a skill folder into your workspace skills directory
 cp -r memory-os ~/.openclaw/workspace/skills/
-
-# Or install from ClawHub (coming soon)
-clawhub install memory-architect
 ```
 
 ### Cursor / Windsurf / Other
