@@ -23,6 +23,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[goal-tracker](./goal-tracker/)** | `agentledger-goal-tracker` | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
 | **[decision-log](./decision-log/)** | `agentledger-decision-log` | AI-powered decision journal — log choices with context and rationale, schedule outcome reviews, and track your judgment calibration over time. |
 | **[client-relationship-manager](./client-relationship-manager/)** | `agentledger-crm` | Lightweight AI-native CRM for solopreneurs — client records, deal pipeline, follow-up queue, meeting briefs, and churn signals. No SaaS required. |
+| **[financial-tracker](./financial-tracker/)** | `agentledger-financial-tracker` | Personal CFO for solo businesses — log income and expenses, track revenue goals, generate P&L snapshots, flag cash flow risks, and estimate quarterly taxes. No spreadsheets. |
 
 ## Quick Start
 
@@ -40,6 +41,7 @@ clawhub install agentledger-research-assistant
 clawhub install agentledger-goal-tracker
 clawhub install agentledger-decision-log
 clawhub install agentledger-crm
+clawhub install agentledger-financial-tracker
 ```
 
 ### OpenClaw (manual)
