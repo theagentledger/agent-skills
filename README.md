@@ -22,6 +22,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[content-calendar](./content-calendar/)** | `content-calendar` | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
 | **[goal-tracker](./goal-tracker/)** | `agentledger-goal-tracker` | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
 | **[decision-log](./decision-log/)** | `agentledger-decision-log` | AI-powered decision journal — log choices with context and rationale, schedule outcome reviews, and track your judgment calibration over time. |
+| **[client-relationship-manager](./client-relationship-manager/)** | `agentledger-crm` | Lightweight AI-native CRM for solopreneurs — client records, deal pipeline, follow-up queue, meeting briefs, and churn signals. No SaaS required. |
 
 ## Quick Start
 
@@ -38,6 +39,7 @@ clawhub install agentledger-daily-briefing
 clawhub install agentledger-research-assistant
 clawhub install agentledger-goal-tracker
 clawhub install agentledger-decision-log
+clawhub install agentledger-crm
 ```
 
 ### OpenClaw (manual)
@@ -66,7 +68,7 @@ CC-BY-NC-4.0 — Free for personal use. Credit The Agent Ledger. No commercial r
 ## More
 
 - 📬 Newsletter: [theagentledger.com](https://www.theagentledger.com)
-- 🧠 Premium Agent Blueprints: Coming soon
+- 🧠 Premium Agent Blueprint Guide: [The Complete Agent Blueprint](https://theagentledger.com) — 23,000 words on building agent systems that work
 
 ---
 
