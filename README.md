@@ -25,6 +25,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[client-relationship-manager](./client-relationship-manager/)** | `agentledger-crm` | Lightweight AI-native CRM for solopreneurs — client records, deal pipeline, follow-up queue, meeting briefs, and churn signals. No SaaS required. |
 | **[financial-tracker](./financial-tracker/)** | `agentledger-financial-tracker` | Personal CFO for solo businesses — log income and expenses, track revenue goals, generate P&L snapshots, flag cash flow risks, and estimate quarterly taxes. No spreadsheets. |
 | **[writing-assistant](./writing-assistant/)** | `agentledger-writing-assistant` | AI writing partner — draft emails, blog posts, newsletters, and social content. Maintains your voice, adapts to format and audience, and integrates with content-calendar and inbox-triage. |
+| **[meeting-assistant](./meeting-assistant/)** | `agentledger-meeting-assistant` | Full meeting lifecycle management — pre-meeting briefs, structured note capture, action item extraction, and open item tracking. Never miss a follow-up. |
 
 ## Quick Start
 
@@ -44,6 +45,7 @@ clawhub install agentledger-decision-log
 clawhub install agentledger-crm
 clawhub install agentledger-financial-tracker
 clawhub install agentledger-writing-assistant
+clawhub install agentledger-meeting-assistant
 ```
 
 ### OpenClaw (manual)
