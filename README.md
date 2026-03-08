@@ -27,6 +27,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[writing-assistant](./writing-assistant/)** | `agentledger-writing-assistant` | AI writing partner — draft emails, blog posts, newsletters, and social content. Maintains your voice, adapts to format and audience, and integrates with content-calendar and inbox-triage. |
 | **[meeting-assistant](./meeting-assistant/)** | `agentledger-meeting-assistant` | Full meeting lifecycle management — pre-meeting briefs, structured note capture, action item extraction, and open item tracking. Never miss a follow-up. |
 | **[habit-tracker](./habit-tracker/)** | `agentledger-habit-tracker` | Daily habit tracking for solopreneurs — log completions, maintain streaks, calculate 7/30-day rates, get weekly reports, and surface overdue habits during heartbeat checks. |
+| **[time-tracker](./time-tracker/)** | `agentledger-time-tracker` | AI-native time tracking — log billable and non-billable sessions, generate invoice-ready reports, track deep work streaks, and surface revenue-per-hour insights by project. |
 
 ## Quick Start
 
@@ -48,6 +49,7 @@ clawhub install agentledger-financial-tracker
 clawhub install agentledger-writing-assistant
 clawhub install agentledger-meeting-assistant
 clawhub install agentledger-habit-tracker
+clawhub install agentledger-time-tracker
 ```
 
 ### OpenClaw (manual)
