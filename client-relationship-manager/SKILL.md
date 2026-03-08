@@ -1,6 +1,7 @@
 ---
 name: client-relationship-manager
-version: 1.0.0
+version: "1.0.0"
+url: https://github.com/theagentledger/agent-skills
 description: Lightweight AI-native CRM for solopreneurs and freelancers. Track clients, relationships, follow-ups, deal stages, and interaction history in plain text files — no SaaS subscription required. Use when managing client relationships, preparing for meetings, tracking follow-ups, or reviewing pipeline status.
 tags: [crm, clients, sales, freelance, solopreneur, relationships, pipeline]
 platforms: [openclaw, cursor, windsurf, generic]

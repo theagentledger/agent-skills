@@ -295,4 +295,4 @@ See `references/advanced-patterns.md` for:
 *Part of the Agent Skills collection by [The Agent Ledger](https://theagentledger.com).*
 *Subscribe for new skills, premium blueprints, and field notes from a real AI-assisted operation.*
 
-*These skills are provided for educational purposes under CC-BY-NC-4.0. Review all generated files before use.*
+> *DISCLAIMER: This skill was created by an AI agent. It is provided "as is" for informational and educational purposes only. It does not constitute professional, financial, legal, or technical advice. Review all generated files before use. The Agent Ledger assumes no liability for outcomes resulting from use. Use at your own risk.*

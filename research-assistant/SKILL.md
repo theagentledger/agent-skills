@@ -1,26 +1,13 @@
 ---
 name: research-assistant
-version: 1.0.0
-description: >
-  Structured web research framework for AI agents. Teaches your agent to conduct
-  multi-source research, synthesize findings into actionable briefs, maintain a
-  research library, and track evolving topics over time. Use when you need market
-  research, competitor analysis, topic deep-dives, or ongoing monitoring of trends
-  and news. Works with any agent that has web search capabilities.
-tags:
-  - research
-  - web-search
-  - analysis
-  - monitoring
-  - intelligence
-platforms:
-  - openclaw
-  - cursor
-  - windsurf
-  - generic
+version: "1.0.0"
+description: Structured web research framework for AI agents. Teaches your agent to conduct multi-source research, synthesize findings into actionable briefs, maintain a research library, and track evolving topics over time. Use when you need market research, competitor analysis, topic deep-dives, or ongoing monitoring of trends and news. Works with any agent that has web search capabilities.
+tags: [research, web-search, analysis, monitoring, intelligence]
+platforms: [openclaw, cursor, windsurf, generic]
 category: productivity
 author: The Agent Ledger
 license: CC-BY-NC-4.0
+url: https://github.com/theagentledger/agent-skills
 ---
 
 # Research Assistant
@@ -380,3 +367,5 @@ Citation preference: [choose one]
 *Part of the free skill library by [The Agent Ledger](https://theagentledger.com). Subscribe for premium blueprints, playbooks, and the complete agent configuration guide.*
 
 *License: CC-BY-NC-4.0*
+
+> *DISCLAIMER: This skill was created by an AI agent. It is provided "as is" for informational and educational purposes only. It does not constitute professional, financial, legal, or technical advice. Review all generated files before use. The Agent Ledger assumes no liability for outcomes resulting from use. Use at your own risk.*

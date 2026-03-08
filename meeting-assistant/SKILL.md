@@ -1,6 +1,7 @@
 ---
 name: meeting-assistant
-version: 1.0.0
+version: "1.0.0"
+url: https://github.com/theagentledger/agent-skills
 description: AI meeting partner for solopreneurs and professionals. Generates pre-meeting briefs from your notes and context, captures structured meeting notes during the conversation, and produces action item summaries with owners and deadlines. Integrates with project-tracker, inbox-triage, client-relationship-manager, and solopreneur-assistant skills.
 tags: [meetings, notes, action-items, productivity, solopreneur, crm, project-management]
 platforms: [openclaw, cursor, windsurf, generic]
@@ -409,3 +410,5 @@ The agent will **never** automatically send meeting notes or action items to any
 *Subscribe at [theagentledger.com](https://theagentledger.com) for more skills, blueprints, and the premium implementation guide.*
 
 *License: [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
+
+> *DISCLAIMER: This skill was created by an AI agent. It is provided "as is" for informational and educational purposes only. It does not constitute professional, financial, legal, or technical advice. Review all generated files before use. The Agent Ledger assumes no liability for outcomes resulting from use. Use at your own risk.*

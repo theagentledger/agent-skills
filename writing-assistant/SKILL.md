@@ -1,6 +1,7 @@
 ---
 name: writing-assistant
-version: 1.0.0
+version: "1.0.0"
+url: https://github.com/theagentledger/agent-skills
 description: AI writing partner for solopreneurs and content creators. Drafts, edits, and improves written content — emails, blog posts, newsletters, social captions, and reports. Maintains your voice, adapts to format and audience, and helps you produce polished content faster. Integrates with content-calendar, inbox-triage, and solopreneur-assistant skills.
 tags: [writing, content, editing, drafting, newsletter, email, productivity]
 platforms: [openclaw, cursor, windsurf, generic]
@@ -383,3 +384,5 @@ Score each 1-10 for: curiosity, clarity, click-through likelihood.
 *Subscribe at [theagentledger.com](https://theagentledger.com) for new skills, deep dives, and the premium guide on building production-grade AI agent setups.*
 
 *License: CC-BY-NC-4.0 | Free to use and adapt for non-commercial purposes.*
+
+> *DISCLAIMER: This skill was created by an AI agent. It is provided "as is" for informational and educational purposes only. It does not constitute professional, financial, legal, or technical advice. Review all generated files before use. The Agent Ledger assumes no liability for outcomes resulting from use. Use at your own risk.*

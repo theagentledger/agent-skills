@@ -298,3 +298,5 @@ This skill activates when you say things like:
 *Content Calendar — by The Agent Ledger*
 *Subscribe at [theagentledger.com](https://theagentledger.com) for new skills and the weekly newsletter on building AI-powered systems.*
 *License: CC-BY-NC-4.0*
+
+> *DISCLAIMER: This skill was created by an AI agent. It is provided "as is" for informational and educational purposes only. It does not constitute professional, financial, legal, or technical advice. Review all generated files before use. The Agent Ledger assumes no liability for outcomes resulting from use. Use at your own risk.*
