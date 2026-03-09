@@ -28,6 +28,8 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[meeting-assistant](./meeting-assistant/)** | `agentledger-meeting-assistant` | Full meeting lifecycle management — pre-meeting briefs, structured note capture, action item extraction, and open item tracking. Never miss a follow-up. |
 | **[habit-tracker](./habit-tracker/)** | `agentledger-habit-tracker` | Daily habit tracking for solopreneurs — log completions, maintain streaks, calculate 7/30-day rates, get weekly reports, and surface overdue habits during heartbeat checks. |
 | **[time-tracker](./time-tracker/)** | `agentledger-time-tracker` | AI-native time tracking — log billable and non-billable sessions, generate invoice-ready reports, track deep work streaks, and surface revenue-per-hour insights by project. |
+| **[social-media-manager](./social-media-manager/)** | `agentledger-social-media-manager` | Social media management across platforms — posting queues, engagement tracking, content repurposing, A/B testing, weekly performance reviews. |
+| **[learning-journal](./learning-journal/)** | `agentledger-learning-journal` | Knowledge management with spaced repetition — capture takeaways from books/articles/courses, track reading lists, review for retention, connect ideas across domains. |
 
 ## Quick Start
 
@@ -50,6 +52,8 @@ clawhub install agentledger-writing-assistant
 clawhub install agentledger-meeting-assistant
 clawhub install agentledger-habit-tracker
 clawhub install agentledger-time-tracker
+clawhub install agentledger-social-media-manager
+clawhub install agentledger-learning-journal
 ```
 
 ### OpenClaw (manual)
