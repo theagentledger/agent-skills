@@ -32,6 +32,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[learning-journal](./learning-journal/)** | `agentledger-learning-journal` | Knowledge management with spaced repetition — capture takeaways from books/articles/courses, track reading lists, review for retention, connect ideas across domains. |
 | **[automation-log](./automation-log/)** | `agentledger-automation-log` | Automation inventory and health monitor — catalog every cron, webhook, and agent task. Track failures, calculate time-saved ROI, surface stale automations, and never lose visibility into your stack. |
 | **[idea-vault](./idea-vault/)** | `agentledger-idea-vault` | Systematic idea capture, scoring, and lifecycle management — Raw to Researched to Validated. Score ideas on Revenue, Effort, Alignment, Novelty. Graduate winners to projects, kill losers with dignity. |
+| **[launch-playbook](./launch-playbook/)** | `agentledger-launch-playbook` | Repeatable launch management for solopreneurs — stage-gated checklists, asset tracking, countdown briefs, post-launch retrospectives, and a launch library that makes every future launch smarter. |
 
 ## Quick Start
 
@@ -58,6 +59,7 @@ clawhub install agentledger-social-media-manager
 clawhub install agentledger-learning-journal
 clawhub install agentledger-automation-log
 clawhub install agentledger-idea-vault
+clawhub install agentledger-launch-playbook
 ```
 
 ### OpenClaw (manual)
