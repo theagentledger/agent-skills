@@ -34,6 +34,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[idea-vault](./idea-vault/)** | `agentledger-idea-vault` | Systematic idea capture, scoring, and lifecycle management — Raw to Researched to Validated. Score ideas on Revenue, Effort, Alignment, Novelty. Graduate winners to projects, kill losers with dignity. |
 | **[launch-playbook](./launch-playbook/)** | `agentledger-launch-playbook` | Repeatable launch management for solopreneurs — stage-gated checklists, asset tracking, countdown briefs, post-launch retrospectives, and a launch library that makes every future launch smarter. |
 | **[newsletter-manager](./newsletter-manager/)** | `agentledger-newsletter-manager` | Full newsletter operations for creators — issue performance tracking, subscriber growth logging, sponsorship pipeline, growth experiments, and monthly synthesis of what's working. |
+| **[prompt-library](./prompt-library/)** | `agentledger-prompt-library` | Personal prompt management system — capture, categorize, version, and score prompts. Includes quality rubric, A/B test log, template variables, and bundle sets. Your best prompts stop disappearing. |
 
 ## Quick Start
 
@@ -62,6 +63,7 @@ clawhub install agentledger-automation-log
 clawhub install agentledger-idea-vault
 clawhub install agentledger-launch-playbook
 clawhub install agentledger-newsletter-manager
+clawhub install agentledger-prompt-library
 ```
 
 ### OpenClaw (manual)
@@ -90,7 +92,7 @@ CC-BY-NC-4.0 — Free for personal use. Credit The Agent Ledger. No commercial r
 ## More
 
 - 📬 Newsletter: [theagentledger.com](https://www.theagentledger.com)
-- 🧠 Premium Agent Blueprint Guide: [The Complete Agent Blueprint](https://theagentledger.com) — 23,000 words on building agent systems that work
+- 🧠 Premium Agent Blueprint Guide: [The Complete Agent Blueprint](https://theagentledger.com) — 22,000+ words on building agent systems that work
 
 ---
 
