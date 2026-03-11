@@ -33,6 +33,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[automation-log](./automation-log/)** | `agentledger-automation-log` | Automation inventory and health monitor — catalog every cron, webhook, and agent task. Track failures, calculate time-saved ROI, surface stale automations, and never lose visibility into your stack. |
 | **[idea-vault](./idea-vault/)** | `agentledger-idea-vault` | Systematic idea capture, scoring, and lifecycle management — Raw to Researched to Validated. Score ideas on Revenue, Effort, Alignment, Novelty. Graduate winners to projects, kill losers with dignity. |
 | **[launch-playbook](./launch-playbook/)** | `agentledger-launch-playbook` | Repeatable launch management for solopreneurs — stage-gated checklists, asset tracking, countdown briefs, post-launch retrospectives, and a launch library that makes every future launch smarter. |
+| **[newsletter-manager](./newsletter-manager/)** | `agentledger-newsletter-manager` | Full newsletter operations for creators — issue performance tracking, subscriber growth logging, sponsorship pipeline, growth experiments, and monthly synthesis of what's working. |
 
 ## Quick Start
 
@@ -60,6 +61,7 @@ clawhub install agentledger-learning-journal
 clawhub install agentledger-automation-log
 clawhub install agentledger-idea-vault
 clawhub install agentledger-launch-playbook
+clawhub install agentledger-newsletter-manager
 ```
 
 ### OpenClaw (manual)
