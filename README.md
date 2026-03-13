@@ -30,6 +30,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[time-tracker](./time-tracker/)** | `agentledger-time-tracker` | AI-native time tracking — log billable and non-billable sessions, generate invoice-ready reports, track deep work streaks, and surface revenue-per-hour insights by project. |
 | **[social-media-manager](./social-media-manager/)** | `agentledger-social-media-manager` | Social media management across platforms — posting queues, engagement tracking, content repurposing, A/B testing, weekly performance reviews. |
 | **[learning-journal](./learning-journal/)** | `agentledger-learning-journal` | Knowledge management with spaced repetition — capture takeaways from books/articles/courses, track reading lists, review for retention, connect ideas across domains. |
+| **[legal-professional](./legal-professional/)** | `agentledger-legal-professional` | AI legal assistant for attorneys — research protocols, document templates, matter tracking, jurisdiction awareness, and ethics guardrails. Turn Claude into your law practice assistant. |
 | **[automation-log](./automation-log/)** | `agentledger-automation-log` | Automation inventory and health monitor — catalog every cron, webhook, and agent task. Track failures, calculate time-saved ROI, surface stale automations, and never lose visibility into your stack. |
 | **[idea-vault](./idea-vault/)** | `agentledger-idea-vault` | Systematic idea capture, scoring, and lifecycle management — Raw to Researched to Validated. Score ideas on Revenue, Effort, Alignment, Novelty. Graduate winners to projects, kill losers with dignity. |
 | **[launch-playbook](./launch-playbook/)** | `agentledger-launch-playbook` | Repeatable launch management for solopreneurs — stage-gated checklists, asset tracking, countdown briefs, post-launch retrospectives, and a launch library that makes every future launch smarter. |
@@ -59,6 +60,7 @@ clawhub install agentledger-habit-tracker
 clawhub install agentledger-time-tracker
 clawhub install agentledger-social-media-manager
 clawhub install agentledger-learning-journal
+clawhub install agentledger-legal-professional
 clawhub install agentledger-automation-log
 clawhub install agentledger-idea-vault
 clawhub install agentledger-launch-playbook
