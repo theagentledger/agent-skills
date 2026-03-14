@@ -22,6 +22,7 @@ Works with: **OpenClaw** · **Cursor** · **Windsurf** · any agent that reads m
 | **[content-calendar](./content-calendar/)** | `content-calendar` | Plan and track content across channels — newsletters, blog, social. Pipeline stages, repurposing queue, weekly brief, cadence tracking. |
 | **[goal-tracker](./goal-tracker/)** | `agentledger-goal-tracker` | OKR-style goal tracking with weekly check-ins, drift detection, time-adjusted progress scoring, and a mid-quarter reality check. |
 | **[decision-log](./decision-log/)** | `agentledger-decision-log` | AI-powered decision journal — log choices with context and rationale, schedule outcome reviews, and track your judgment calibration over time. |
+| **[email-sequence-manager](./email-sequence-manager/)** | `agentledger-email-sequence-manager` | Build, test, and automate multi-step email campaigns — onboarding, nurture, product launch, re-engagement, upsell. Templates, A/B testing, revenue tracking, CRM integration. |
 | **[client-relationship-manager](./client-relationship-manager/)** | `agentledger-crm` | Lightweight AI-native CRM for solopreneurs — client records, deal pipeline, follow-up queue, meeting briefs, and churn signals. No SaaS required. |
 | **[financial-tracker](./financial-tracker/)** | `agentledger-financial-tracker` | Personal CFO for solo businesses — log income and expenses, track revenue goals, generate P&L snapshots, flag cash flow risks, and estimate quarterly taxes. No spreadsheets. |
 | **[writing-assistant](./writing-assistant/)** | `agentledger-writing-assistant` | AI writing partner — draft emails, blog posts, newsletters, and social content. Maintains your voice, adapts to format and audience, and integrates with content-calendar and inbox-triage. |
@@ -52,6 +53,7 @@ clawhub install agentledger-daily-briefing
 clawhub install agentledger-research-assistant
 clawhub install agentledger-goal-tracker
 clawhub install agentledger-decision-log
+clawhub install agentledger-email-sequence-manager
 clawhub install agentledger-crm
 clawhub install agentledger-financial-tracker
 clawhub install agentledger-writing-assistant
